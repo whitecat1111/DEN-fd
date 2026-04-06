@@ -1,3 +1,4 @@
+'''基于功能性漂移的DEN架构（DEN-fd）'''
 import tensorflow as tf
 import numpy as np
 import time
